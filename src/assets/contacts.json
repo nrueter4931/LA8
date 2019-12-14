@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "firstName": "Nick",
+        "lastName": "Rueter",
+        "email": "nick@email.com",
+        "phone": "(559) 111-1111",
+        "editing": false
+    },
+    {
+        "id": 2,
+        "firstName": "Joe",
+        "lastName": "Second",
+        "email": "joe@email.com",
+        "phone": "(559) 111-1112",
+        "editing": false
+    },
+    {
+        "id": 3,
+        "firstName": "Bob",
+        "lastName": "Third",
+        "email": "Bob@email.com",
+        "phone": "(559) 111-1113",
+        "editing": false
+    }
+]
